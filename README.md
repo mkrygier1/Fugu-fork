@@ -6,6 +6,7 @@ A python library for computational neural graphs.
 ## Dependencies
 A full list of dependencies is listed in requirements.txt.  The high level dependencies are:
 
+- Python >= 3.9, <= 3.11
 - Numpy
 - NetworkX
 - Pandas
